@@ -1,2 +1,2 @@
-# Website
-Chicken Client HTML Website
+# Chicken Client Website
+The official website for Chicken Client!
