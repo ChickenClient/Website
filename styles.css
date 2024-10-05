@@ -58,7 +58,7 @@
   .center-text-sm {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
-    color: rgb(198, 198, 198);
+    color: rgb(255, 255, 255);
     font-size: 36px;
     margin-top: 10px;
   }
@@ -72,7 +72,7 @@
     color: white;
     text-decoration: none;
     cursor: default;
-    background-image: linear-gradient(#2b00ff, #72c6c1);
+    background-image: radial-gradient(#ff0000, #bf3f10);
     border: none;
     border-radius: 16px;
     cursor: pointer;
